@@ -7,7 +7,7 @@ This is a wrapper for Native Checkout V2 API of Viva Wallet: https://developer.v
 This library is installed via [Composer](http://getcomposer.org/). You will need to require `flydev-fr/viva-php`:
 
 ```
-composer require FlydevFr/viva-php:~1.0
+composer require flydev-fr/viva-php:~1.0
 ```
 
 ## Prerequisites
