@@ -1,0 +1,16 @@
+{
+	"name": "flydev-fr/vivawallet-php",
+	"description": "Viva Wallet Native Checkout V2 API PHP Wrapper Library",
+	"keywords": ["viva", "wallet", "payment", "native", "checkout", "V2", "api"],
+	"homepage": "https://github.com/flydev-fr/viva-walletwphp",
+	"license": "MIT",
+	"minimum-stability": "stable",
+	"require": {
+		"php": ">=7.3.0",
+		"guzzlehttp/guzzle": "~7.1",
+		"egulias/email-validator": "~2.0"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
